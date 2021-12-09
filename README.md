@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nindenkawe
-- 👀 I’m a teck enthusiast, am so into music and good films
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on AI related projects
+- 👀 I’m a teck enthusiast
+- 🌱 Currently learning ML, & playing aroung with IOT microcontrollers, Mpython
+- 💞️ I’m looking to collaborate on ML & IOT related projects
 - 📫 email:amiritius@gmail.com
 
 <!---
