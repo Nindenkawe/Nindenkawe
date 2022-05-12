@@ -2,7 +2,7 @@
 - 👀 a teck enthusiast.
 - 🌱 Currently learning ML, & playing around with IOT microcontrollers(ESP8266 & it's powers), Mpython
 - 💞️ I’m looking to collaborate on ML & IOT related projects
-- 📫 email:amiritius@gmail.com
+- 📫 email:nindenkawe@ihute.rw
 
 <!---
 Nindenkawe/Nindenkawe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
