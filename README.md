@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nindenkawe,
+- 👋 Hi, I’m Nindenkawe Amir,
 - 👀 a teck enthusiast.
 - 🌱 Currently working in freelance web-dev while i learn data science with Python, & playing around with IOT microcontrollers(ESP8266 & it's Mpython possibilities)
 - 💞️ I’m looking to collaborate on L3 data science tasks & IOT related projects
