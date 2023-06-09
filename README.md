@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nindenkawe Amir,
-- a teck enthusiast.
-- Currently working with ihute.rw an e-service platform for all car services, while pursuing Google’s Data Analytics Certificate & playing around with data visualisation libraries with Python, & IOT microcontrollers(ESP8266 & it's Micropython possibilities)
+- Currently working with ihute.rw an e-service platform for all car services, while pursuing Google’s Data Analytics Certificate & playing around with data visualisation libraries using the Vuejs framework, & data access on IOT microcontrollers (ESP8266 & it's Micropython possibilities)
 
 I’m looking to collaborate on advanced data analysis tasks & IOT related projects
 
